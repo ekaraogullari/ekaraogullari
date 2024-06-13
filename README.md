@@ -1,6 +1,6 @@
 ![EK](https://karaogullari.com/ek.png)
 
-Eylem Karaoğulları | Senior Cybersecurity Engineer, Information Technology Project Manager
+Eylem Karaoğulları | Senior Cybersecurity Engineer, Information Technology Project Manager, Offensive Security Addict, Red Teamer
 
 The Art of the Unintended: Hack All The Things
 
@@ -16,8 +16,8 @@ Areas of Expertise
 
 ### Development
 - Programming Languages: Proficiency in Python, C#, Bash and PowerShell
-- Communication Protocols: Expertise in GSM, LoRa, Wireless, Bluetooth, MQTT, HTTP/HTTPS
-- Sensor Integration: Comprehensive experience with integrating a wide range of sensors
+- Communication Protocols: Expertise in GSM, LoRa, Wi-Fi, Bluetooth, RFID, NFC
+- Sensor Integration: Comprehensive experience with integrating a wide range of IoT and sensors
 - Microcontrollers and SBCs: Expertise in Arduino, Raspberry Pi, NodeMCU, HackRF and custom-designed gadgets for specific applications
 
 ### System Administration
