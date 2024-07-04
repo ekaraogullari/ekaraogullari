@@ -12,7 +12,7 @@ Areas of Expertise
 - Penetration Testing: Advanced usage of tools and frameworks
 - Custom Exploits: Development and testing of custom exploits and various reverse engineering techniques
 - Vulnerability Management: Proficiency with vulnerability scanning tools
-- Security Risk Assessment: Expertise in threat modeling, risk analysis and conducting compliance audits for standards like ISO27001, GDPR and KVKK.
+- Security Risk Assessment: Expertise in threat modeling, risk analysis and conducting compliance audits for standards.
 
 ### Development
 - Programming Languages: Proficiency in Python, C#, Bash and PowerShell
