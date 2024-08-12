@@ -2,9 +2,6 @@
 
 Eylem Karaoğulları | Senior Cybersecurity Engineer, Information Technology Project Manager, Offensive Security Addict, Red Teamer
 
-The Art of the Unintended: Hack All The Things
-
-
 Areas of Expertise
 
 ### Cybersecurity
