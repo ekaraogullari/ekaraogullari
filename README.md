@@ -18,7 +18,7 @@ Areas of Expertise
 - Microcontrollers and SBCs: Expertise in Arduino, Raspberry Pi, NodeMCU, HackRF and custom-designed gadgets for specific applications
 
 ### System Administration
-- Operating Systems: Actively use Ubuntu Server and Kali Linux. Proficient in Linux distributions including Ubuntu (early adopter since its inception), Debian and historical use of Commodore 64. Dislike Macintosh SlaveOS and related aspects.
+- Operating Systems: Actively use Ubuntu Server and Kali Linux. Proficient in Linux distributions including Ubuntu (early adopter since its inception), Debian and historical use of Commodore 64. 
 - Network Management: Expertise in managing network infrastructure, switches, routers and firewalls.
 - Virtualization: Experience with virtualization technologies
 
